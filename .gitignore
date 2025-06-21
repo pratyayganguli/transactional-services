@@ -1,7 +1,9 @@
 .idea/
-transactional-services-sdk/.gradle
-transactional-services-sdk/gradle
+transactional-services-sdk/.gradle/
+transactional-services-sdk/gradle/
 transactional-services-sdk/gradlew
+transactional-services-sdk/build/
+
 *.iml
 *.class
 *.log
